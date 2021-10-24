@@ -19,8 +19,6 @@ Mailbox: Reach me out!
 #### <img  align='left' src="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="30px" data-canonical-src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" > Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
-<br/>
-
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align='left' src="https://github.com/devicons/devicon/raw/master/icons/redux/redux-original.svg" width="26px">
 
