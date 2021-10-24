@@ -10,7 +10,6 @@ Mailbox: Reach me out!
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for Open sources Projects.
 - 📫 How to reach me: enmanuelquiterios@gmail.com.
-- 😄 Pronouns: Yeison Casado.
 - ⚡ Fun fact: I love to go the Gym often and I'm a self motivated Person.
 - 💥 I know that dedication and Discipline will take me places.
 - 😊 I'm a deep lover of 3D React-three-fiber.
