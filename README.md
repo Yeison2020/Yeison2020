@@ -6,7 +6,7 @@ Mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@casado_yeison-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/YeisonCasado)](https://twitter.com/casado_yeison) [![Linkedin Badge](https://img.shields.io/badge/-YeisonCasado-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeisoncasado-695/) [![Mail Badge](https://img.shields.io/badge/-@yeison_devr-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/yeison_dev695/) [![Mail Badge](https://img.shields.io/badge/-YeisonCasado-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:enmanuelquiterios@gmail.com)
 
-- 🔭 I’m currently working on my Projects.
+- 🔭 I’m currently working on my own Projects.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for Open sources Projects.
 - 📫 How to reach me: enmanuelquiterios@gmail.com.
